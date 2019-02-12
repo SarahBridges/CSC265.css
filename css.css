@@ -4,6 +4,7 @@ body {  background-color: lightcyan;
         padding: 10px;
         algin: center;}
 
+.username { color: darkcyan; }
 .nav {  color: royalblue;
         border: 2px solid cornflowerblue;
         padding: 10px; }
@@ -15,22 +16,22 @@ h1  {   color: royalblue; }
 .day {  font-size: 125%; 
         color: crimson; }
 
-.day-box PREP {     color: royalblue;
-                        border: 2px solid cornflowerblue;
-                        padding: 10px; }
+.day-box PREP { color: royalblue;
+                border: 2px solid cornflowerblue;
+                padding: 10px; }
 
-.reading-box {      color: mediumturquoise;
-                        border: 2px solid lightseagreen;
-                        padding: 10px; }
+.reading-box { color: mediumturquoise;
+               border: 2px solid lightseagreen;
+               padding: 10px; }
 
 .assignment-label { font-size: 200%; }
 
 .reading {  color: mediumturquoise;
-                border: 2px solid lightseagreen;
-                padding: 5px; }
+            border: 2px solid lightseagreen;
+            padding: 5px; }
 
 .prep-box { color: lightcoral;
-                border: 2px solid salmon; }
+            border: 2px solid salmon; }
 
 img {   width: 80px;
         height: 110px; }
