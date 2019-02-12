@@ -1,5 +1,8 @@
 body {  background-color: lightcyan;
-        font-family: Bookman;}
+        font-family: Bookman;
+        border: 2px solid conflowerblue;
+        padding: 10px;
+        algin: center;}
 
 body.nav {      color: royalblue;
                 border: 2px solid cornflowerblue;
