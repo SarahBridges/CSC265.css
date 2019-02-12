@@ -17,9 +17,8 @@ h1  {   color: royalblue; }
 .day {  font-size: 125%; 
         color: crimson; }
 
-.day-box.PREP { border: 2px solid chartreuse;
-                padding: 10px; 
-                border: 5px solid crimson; }
+.day-box.PREP { padding: 10px; 
+                border: 5px solid lightcoral; }
 
 .reading-box { color: mediumturquoise;
                border: 2px solid lightseagreen;
