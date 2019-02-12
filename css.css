@@ -31,5 +31,9 @@ h1  {   color: royalblue; }
 .prep-box { color: mediumturqouise;
             border: 2px solid lightseagreen; }
 
+.assignment_link { color: mediumturqouise;
+                   border: 2px solid lightseagreen;
+                   padding: 5px; }
+
 img {   width: 80px;
         height: 110px; }
