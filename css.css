@@ -7,26 +7,26 @@ body {  background-color: lightcyan;
 .nav {      color: royalblue;
                 border: 2px solid cornflowerblue;
                 padding: 10px; }
-header {   color: crimson;
+.header {   color: crimson;
                 align: center; }
 
 h1  {   color: royalblue; }
 
-div.day-box PREP {     color: royalblue;
+.day-box PREP {     color: royalblue;
                         border: 2px solid cornflowerblue;
                         padding: 10px; }
 
-body.reading-box {      color: mediumturquoise;
+.reading-box {      color: mediumturquoise;
                         border: 2px solid lightseagreen;
                         padding: 5px; }
 
-body.assignment-label { font-size: 200%; }
+.assignment-label { font-size: 200%; }
 
-body.reading {  color: mediumturquoise;
+.reading {  color: mediumturquoise;
                 border: 2px solid lightseagreen;
                 padding: 5px; }
 
-body.prep-box { color: lightcoral;
+.prep-box { color: lightcoral;
                 border: 2px solid salmon; }
 
 img {   width: 80px;
