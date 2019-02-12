@@ -26,4 +26,5 @@ body.reading {  color: mediumturquoise;
 body.prep-box { color: lightcoral;
                 border: 2px solid salmon; }
 
-body.
+img {   width: 80px;
+        height: 110px; }
