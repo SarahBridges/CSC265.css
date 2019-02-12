@@ -4,13 +4,16 @@ body {  background-color: lightcyan;
         padding: 10px;
         algin: center;}
 
-.nav {      color: royalblue;
-                border: 2px solid cornflowerblue;
-                padding: 10px; }
-.header {   color: crimson;
-                align: center; }
+.nav {  color: royalblue;
+        border: 2px solid cornflowerblue;
+        padding: 10px; }
+.header { text-align: center; 
+          padding: 10px;}
 
 h1  {   color: royalblue; }
+
+.day {  font-size: 125%; 
+        color: crimson; }
 
 .day-box PREP {     color: royalblue;
                         border: 2px solid cornflowerblue;
