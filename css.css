@@ -9,7 +9,7 @@ body.header {   color: crimson;
 
 h1  {   color: royalblue; }
 
-body.day-box PREP {     color: royalblue;
+div.day-box PREP {     color: royalblue;
                         border: 2px solid cornflowerblue;
                         padding: 10px; }
 
