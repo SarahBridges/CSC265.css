@@ -4,10 +4,10 @@ body {  background-color: lightcyan;
         padding: 10px;
         algin: center;}
 
-body.nav {      color: royalblue;
+.nav {      color: royalblue;
                 border: 2px solid cornflowerblue;
                 padding: 10px; }
-body.header {   color: crimson;
+header {   color: crimson;
                 align: center; }
 
 h1  {   color: royalblue; }
