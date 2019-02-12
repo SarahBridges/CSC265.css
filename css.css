@@ -1,12 +1,30 @@
-body  {
-        background-color: lightcyan;
-        font-family: Bookman;
-      }
-      
-body.nav {
-            
+body {  background-color: lightcyan;
+        font-family: Bookman;}
+body.nav {      color: royalblue;
+            border: 2px solid cornflowerblue;
+            padding: 10px;
          }
-    
 h1  {
-      
+      color: royalblue;
     }
+
+body.day-box PREP {
+                    color: royalblue;
+                    border: 2px solid cornflowerblue;
+                    padding: 10px;
+                        }
+body.reading-box {
+                    color: mediumturquoise;
+                    border: 2px solid lightseagreen;
+                    padding: 5px;
+                 }
+body.assignment-label {
+                        font-size: 200%;
+                      }
+body.reading {
+                color: mediumturquoise;
+                border: 2px solid lightseagreen;
+                padding: 5px;
+             }
+body.prep-box { color: lightcoral;
+                border: 2px solid salmon; }
