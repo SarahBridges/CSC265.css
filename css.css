@@ -2,22 +2,23 @@ body {  background-color: lightcyan;
         font-family: Bookman;
         border: 2px solid conflowerblue;
         padding: 10px;
-        algin: center;}
+        algin: center; }
 
 .username { color: darkcyan; }
+
 .nav {  color: royalblue;
         border: 2px solid cornflowerblue;
         padding: 10px; }
 .header { text-align: center; 
-          padding: 10px;}
+          padding: 10px; }
 
 h1  {   color: royalblue; }
 
 .day {  font-size: 125%; 
         color: crimson; }
 
-.day-box PREP { color: royalblue;
-                border: 2px solid cornflowerblue;
+.day-box PREP { color: red;
+                border: 2px solid chartreuse;
                 padding: 10px; }
 
 .reading-box { color: mediumturquoise;
