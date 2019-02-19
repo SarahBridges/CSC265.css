@@ -29,18 +29,19 @@ h1  { color: white; }
 
 .day-box.CURRENT { padding: 10px;
                    margin: 10px; 
-                   background-color: sienna;}
+                   background-color: sienna;
+                   border-radius: 10px;}
 
 .day-box.COMPLETED { padding: 10px;
                      margin: 10px;
-                     background-color: sienna; }
+                     background-color: sienna; 
+                     border-radius: 10px;}
 
 .reading-box { padding: 10px; }
 
 .assignment-label { font-size: 200%; }
 
-.reading { color: mediumturquoise;
-           padding: 5px; }
+.reading { color: saddlebrown; }
 
 .prep-box { padding: 5px;
             color: saddlebrown;}
