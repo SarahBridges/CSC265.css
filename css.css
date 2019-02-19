@@ -18,8 +18,8 @@ h1  { color: white; }
 
 .day-box.PREP { padding: 10px; 
                 margin 10px;
-                color: saddlebrown;
                 background-color: darkkhaki;}
+.day-box.PREP.readinglabel {color: saddlebrown;}
 
 .day-box.CURRENT { padding: 10px;
                    margin: 10px; 
