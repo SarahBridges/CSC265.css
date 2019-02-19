@@ -24,6 +24,8 @@ h1  { color: white; }
 
 .day-box.PREP.readinglabel {color: saddlebrown;}
 
+.day-box.PREP.prep-box {}
+
 .day-box.CURRENT { padding: 10px;
                    margin: 10px; 
                    background-color: sienna;}
@@ -39,9 +41,10 @@ h1  { color: white; }
 .reading { color: mediumturquoise;
            padding: 5px; }
 
-.prep-box { color: mediumturqouise;}
+.prep-box { padding: 5px;
+            color: saddlebrown;}
 
-.assignment_link { color: mediumturqouise;
+.assignment_link { color: saddlebrown;
                    padding: 5px; }
 
 img {   width: 80px;
