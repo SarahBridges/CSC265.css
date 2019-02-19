@@ -39,7 +39,9 @@ h1  { color: white; }
                      border-radius: 10px;
                      color: khaki; }
 
-.reading-box { border: 2px solid mediumblue; }
+.reading-box { border: 2px solid mediumblue; 
+               margin: 5px;
+               border-radius: 10px; }
 
 .assignment-label { font-size: 200%; }
 
