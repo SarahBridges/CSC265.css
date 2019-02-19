@@ -15,12 +15,15 @@ h1  { color: white; }
 .day {  font-size: 125%; 
         color: saddlebrown; }
 
-.day-box.PREP { padding: 10px; }
+.day-box.PREP { padding: 10px; 
+                margin 10px;
+                color: saddlebrown;
+                background-color: darkkhaki;}
 
 .day-box.CURRENT { padding: 10px;
                    margin: 10px; 
                    color: saddlebrown; 
-                   background-color: khaki;}
+                   background-color: sienna;}
 
 .day-box.COMPLETED { padding: 10px;
                      margin: 10px;
