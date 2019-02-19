@@ -19,6 +19,7 @@ h1  { color: white; }
 .day-box.PREP { padding: 10px; 
                 margin 10px;
                 background-color: darkkhaki;}
+
 .day-box.PREP.readinglabel {color: saddlebrown;}
 
 .day-box.CURRENT { padding: 10px;
@@ -30,20 +31,16 @@ h1  { color: white; }
                      margin: 10px;
                      background-color: darkkhaki; }
 
-.reading-box { border: 2px solid lightseagreen;
-               padding: 10px; }
+.reading-box { padding: 10px; }
 
 .assignment-label { font-size: 200%; }
 
 .reading { color: mediumturquoise;
-           border: 2px solid lightseagreen;
            padding: 5px; }
 
-.prep-box { color: mediumturqouise;
-            border: 2px solid lightseagreen; }
+.prep-box { color: mediumturqouise;}
 
 .assignment_link { color: mediumturqouise;
-                   border: 2px solid lightseagreen;
                    padding: 5px; }
 
 img {   width: 80px;
