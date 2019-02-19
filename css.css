@@ -21,7 +21,7 @@ h1  { color: white; }
                 margin 10px;
                 background-color: darkkhaki;}
 
-.day-box.PREP.reading { color: saddlebrown; }
+.day-box.PREP.reading.assignment-label { color: saddlebrown; }
 
 .day-box.PREP.readinglabel {color: saddlebrown;}
 
