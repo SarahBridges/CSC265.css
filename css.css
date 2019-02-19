@@ -3,9 +3,10 @@ body {  background-color: mediumblue;
         padding: 10px;
         align: center; }
 
-.username { color: saddlebrown; }
+.username { color: white; }
 
-.nav { padding: 10px; }
+.nav { padding: 10px; 
+       color: white; }
 
 .header { text-align: center; 
           padding: 10px; }
