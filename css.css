@@ -7,43 +7,68 @@ body {  background-color: mediumblue;
 
 .nav { padding: 10px; }
 
-.header { text-align: center; 
-          padding: 10px;  
-          background-color: khaki; 
+.header { text-align: center;
+          padding: 10px;
+          background-color: khaki;
           border-radius: 10px; }
 
-h1  { color: white; }
+h1  { color: white; 
+      text-algin: center; }
 
-.day {  font-size: 125%; 
-        color: saddlebrown; }
-
-.day-box.PREP { padding: 10px; 
+.day-box.PREP { padding: 10px;
                 margin 10px;
                 background-color: darkkhaki;
                 border-radius: 10px; }
+
+.day-box.PREP.day {  font-size: 125%;
+                     color: saddlebrown; }
+
+.day-box.PREP.reading-box { border: 2px solid mediumblue;
+                            margin: 5px;
+                            border-radius: 10px;
+                            padding: 5px; }
 
 .day-box.PREP.reading.assignment-label { color: saddlebrown; }
 
 .day-box.PREP.readinglabel {color: saddlebrown;}
 
-.day-box.PREP.prep-box {}
+.day-box.PREP.prep-box { border: 2px solid mediumblue;
+                         margin: 5px;
+                         border-radius: 10px;
+                         padding: 5px;}
+
+.day-box.PREP.prep-box { border: 2px solid mediumblue;
+                         margin: 5px;
+                         border-radius: 10px;
+                         padding: 5px;}
 
 .day-box.CURRENT { padding: 10px;
-                   margin: 10px; 
+                   margin: 10px;
                    background-color: sienna;
                    border-radius: 10px;
                    color: khaki; }
 
+.day-box.CURRENT.day {color: white;
+                      font-size: 125%;}
+
+.day-box.CURRENT.reading-box {border: 2px solid mediumblue
+                              margin: 5px;
+                              border-radius: 10px;
+                              padding: 5px; }
+
+.day-box.CURRENT.reading.assignment-label {color: white;}
+
+.day-box.CURRENT.prep-box {}
+
+.day-box.CURRENT.lab-box {}
+
 .day-box.COMPLETED { padding: 10px;
                      margin: 10px;
-                     background-color: sienna; 
+                     background-color: sienna;
                      border-radius: 10px;
                      color: khaki; }
 
-.reading-box { border: 2px solid mediumblue; 
-               margin: 5px;
-               border-radius: 10px; 
-               padding: 5px; }
+
 
 .assignment-label { font-size: 200%; }
 
@@ -57,6 +82,7 @@ h1  { color: white; }
 
 img {   width: 80px;
         height: 110px; }
+
 
 .title { color: white;
         text-align: center;
