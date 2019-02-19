@@ -8,8 +8,7 @@ body {  background-color: mediumblue;
 .nav { padding: 10px; }
 
 .header { text-align: center; 
-          padding: 10px; 
-          background-image: url("glasses.jpg"); 
+          padding: 10px;  
           background-color: khaki; }
 
 h1  { color: white; }
