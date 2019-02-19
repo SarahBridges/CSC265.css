@@ -3,15 +3,14 @@ body {  background-color: mediumblue;
         padding: 10px;
         align: center; }
 
-.username { color: white; }
+.username { color: saddlebrown; }
 
-.nav { padding: 10px; 
-       color: white; }
+.nav { padding: 10px; }
 
 .header { text-align: center; 
           padding: 10px; 
           background-image: url("glasses.jpg"); 
-          background-color: khaki;}
+          background-color: khaki; }
 
 h1  { color: white; }
 
@@ -21,6 +20,8 @@ h1  { color: white; }
 .day-box.PREP { padding: 10px; 
                 margin 10px;
                 background-color: darkkhaki;}
+
+.day-box.PREP.reading { color: saddlebrown; }
 
 .day-box.PREP.readinglabel {color: saddlebrown;}
 
