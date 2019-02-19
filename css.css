@@ -51,7 +51,7 @@ h1  { color: white;
 .day-box.CURRENT.day {color: white;
                       font-size: 125%;}
 
-.day-box.CURRENT.reading-box {border: 2px solid mediumblue
+.day-box.CURRENT.reading-box {border: 2px solid mediumblue;
                               margin: 5px;
                               border-radius: 10px;
                               padding: 5px; }
