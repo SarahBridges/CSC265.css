@@ -58,5 +58,6 @@ h1  { color: white; }
 img {   width: 80px;
         height: 110px; }
 .title { color: white;
-        text-align: center
-        font-size: 20px}
+        text-align: center;
+        font-size: 20px;}
+label {clear:both;}
