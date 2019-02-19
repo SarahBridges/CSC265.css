@@ -66,3 +66,5 @@ label { clear: both;
         color: white;}
 
 input { clear: both; }
+
+form.account_form { clear: both;}
