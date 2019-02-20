@@ -1,88 +1,134 @@
-body {  background-color: mediumblue;
+body 
+{
+        background-color: mediumblue;
         font-family: Bookman;
         padding: 10px;
-        align: center; }
-
-.username { color: saddlebrown; }
-
-.nav { padding: 10px; }
-
-.header { text-align: center;
-          padding: 10px;
-          background-color: khaki;
-          border-radius: 10px; }
-
-h1  { color: white; 
-      text-align: center; }
-
-.day-box.PREP { padding: 10px;
-                margin 10px;
-                background-color: darkkhaki;
-                border-radius: 10px; }
-
-.day-box.PREP.day {  font-size: 125%;
-                     color: saddlebrown; }
-
-.day-box.PREP.reading-box { border: 2px solid mediumblue;
-                            margin: 5px;
-                            border-radius: 10px;
-                            padding: 5px; }
-
-.day-box.PREP.reading.assignment-label { color: saddlebrown; }
-
-.day-box.PREP.readinglabel {color: saddlebrown;}
-
-.day-box.PREP.prep-box { border: 2px solid mediumblue;
-                         margin: 5px;
-                         border-radius: 10px;
-                         padding: 5px;}
-
-.day-box.PREP.prep-box { border: 2px solid mediumblue;
-                         margin: 5px;
-                         border-radius: 10px;
-                         padding: 5px;}
-
-.day-box.CURRENT { padding: 10px;
-                   margin: 10px;
-                   background-color: sienna;
-                   border-radius: 10px;
-                   color: khaki; }
-
-.day-box.CURRENT.day {color: white;
-                      font-size: 125%;}
-
-.day-box.CURRENT.reading-box {border: 2px solid mediumblue;
-                              margin: 5px;
-                              border-radius: 10px;
-                              padding: 5px; 
-                              color: khaki;}
-
-.day-box.CURRENT.reading.assignment-label {color: white;}
-
-.day-box.CURRENT.prep-box {}
-
-.day-box.CURRENT.lab-box {}
-
-.day-box.COMPLETED { padding: 10px;
-                     margin: 10px;
-                     background-color: sienna;
-                     border-radius: 10px;
-                     color: khaki; }
-
-
-
-.assignment-label { font-size: 200%; }
-
-.reading { color: saddlebrown; }
-
-.prep-box { padding: 5px;
-            color: saddlebrown;}
-
-.assignment_link { color: saddlebrown;
-                   padding: 5px; }
-
-img {   width: 80px;
-        height: 110px; }
+        align: center; 
+}
+.username
+{
+        color: saddlebrown; 
+}
+.nav
+{
+        padding: 10px;
+}
+.header
+{
+        text-align: center;
+        padding: 10px;
+        background-color: khaki;
+        border-radius: 10px;
+}
+h1
+{
+        color: white; 
+        text-align: center;
+}
+.day-box.PREP
+{
+        padding: 10px;
+        margin: 10px;
+        background-color: darkkhaki;
+        border-radius: 10px;
+}
+.day-box.PREP.day
+{
+        font-size: 125%;
+        color: saddlebrown;
+}
+.day-box.PREP.reading-box
+{
+        border: 2px solid mediumblue;
+        margin: 5px;
+        border-radius: 10px;
+        padding: 5px;
+}
+.day-box.PREP.reading.assignment-label
+{
+        color: saddlebrown;
+        border: 2px solid mediumblue;
+}
+.day-box.PREP.readinglabel
+{
+        color: saddlebrown;
+}
+.day-box.PREP.prep-box
+{
+        border: 2px solid mediumblue;
+        margin: 5px;
+        border-radius: 10px;
+        padding: 5px;
+}
+.day-box.PREP.prep-box
+{
+        border: 2px solid mediumblue;
+        margin: 5px;
+        border-radius: 10px;
+        padding: 5px;
+}
+.day-box.CURRENT
+{
+        padding: 10px;
+        margin: 10px;
+        background-color: sienna;
+        border-radius: 10px;
+        color: khaki;
+}
+.day-box.CURRENT.day
+{
+        color: white;
+        font-size: 125%;
+}
+.day-box.CURRENT.reading-box
+{
+        border: 2px solid mediumblue;
+        margin: 5px;
+        border-radius: 10px;
+        padding: 5px; 
+        color: khaki;
+}
+.day-box.CURRENT.reading.assignment-label
+{
+        color: white;
+}
+.day-box.CURRENT.prep-box
+{
+}
+.day-box.CURRENT.lab-box
+{
+}
+.day-box.COMPLETED
+{
+        padding: 10px;
+        margin: 10px;
+        background-color: sienna;
+        border-radius: 10px;
+        color: khaki;
+}
+.assignment-label
+{
+        font-size: 200%;
+}
+.reading
+{
+        color: saddlebrown;
+}
+.prep-box
+{
+        padding: 5px;
+        color: saddlebrown;
+}
+.assignment_link
+{
+        color: saddlebrown;
+        padding: 5px;
+}
+img
+{
+        width: 80px;
+        height: 110px;
+}
 
 
 .title { color: white;
