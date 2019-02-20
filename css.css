@@ -47,6 +47,7 @@ h1
 .reading
 {
         border: 2px solid mediumblue;
+        border-radius: 10px;
 }
 .day-box.PREP.reading.assignment-label
 {
