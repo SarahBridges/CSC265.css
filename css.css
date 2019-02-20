@@ -32,7 +32,7 @@ h1
         background-color: darkkhaki;
         border-radius: 10px;
 }
-.day-box.PREP.day
+.day-box PREP.day
 {
         font-size: 125%;
         color: saddlebrown;
