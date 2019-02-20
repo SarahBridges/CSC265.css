@@ -59,6 +59,11 @@ h1
         border: 2px solid mediumblue;
         border-radius: 10px;
 }
+.prep-box
+{
+        border: 2px solid mediumblue;
+        border-radius: 10px;
+}
 .day-box.PREP.reading.assignment-label
 {
         color: saddlebrown;
