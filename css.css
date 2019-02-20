@@ -48,21 +48,25 @@ h1
 {
         border: 2px solid mediumblue;
         border-radius: 10px;
+        margin: 10px;
 }
 .grading-box
 {
         border: 2px solid mediumblue;
         border-radius: 10px;
+        margin: 10px;
 }
 .lab-box
 {
         border: 2px solid mediumblue;
         border-radius: 10px;
+        margin: 10px;
 }
 .prep-box
 {
         border: 2px solid mediumblue;
         border-radius: 10px;
+        margin: 10px;
 }
 .day-box.PREP.reading.assignment-label
 {
