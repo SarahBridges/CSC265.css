@@ -101,7 +101,6 @@ h1
         margin: 10px;
         background-color: sienna;
         border-radius: 10px;
-        color: khaki;
 }
 .day-box.CURRENT.day
 {
@@ -122,9 +121,11 @@ h1
 }
 .day-box.CURRENT.prep-box
 {
+        color: khaki;
 }
 .day-box.CURRENT.lab-box
 {
+        color: khaki;
 }
 .day-box.COMPLETED
 {
@@ -140,16 +141,16 @@ h1
 }
 .reading
 {
-        color: saddlebrown;
+        color: khaki;
 }
 .prep-box
 {
         padding: 5px;
-        color: saddlebrown;
+        color: khaki;
 }
 .assignment_link
 {
-        color: saddlebrown;
+        color: khaki;
         padding: 5px;
 }
 img
