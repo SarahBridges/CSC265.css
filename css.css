@@ -29,10 +29,9 @@ body
         margin: 10px;
         font-size: 200%;
         background-image: url("aviator.jpeg");
+        background-repeat: no-repeat;
         background-size: contain;
-        width: 30px;
-        height: 30px;
-        resize: both;
+
 }
 
 h1
