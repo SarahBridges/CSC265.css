@@ -16,6 +16,8 @@ body
 .username
 {
         color: saddlebrown; 
+        font-size: 125%
+        -webkit-text-stroke: 1px khaki;
 }
 .nav
 {
