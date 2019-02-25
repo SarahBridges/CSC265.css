@@ -72,6 +72,7 @@ h1
         background-image: url("aviator.jpeg");
         background-repeat: no-repeat;
         background-position: center right;
+        backgound-size: cover;
 }
 .lab-box
 {
@@ -82,6 +83,7 @@ h1
         background-image: url("aviator.jpeg");
         background-repeat: no-repeat;
         background-position: center right;
+        backgound-size: cover;
 }
 .prep-box
 {
@@ -92,6 +94,7 @@ h1
         background-image: url("aviator.jpeg");
         background-repeat: no-repeat;
         background-position: center right;
+        backgound-size: cover;
 }
 .day-box.PREP.reading.assignment-label
 {
