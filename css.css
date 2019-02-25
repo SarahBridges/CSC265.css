@@ -38,9 +38,6 @@ h1
 {
         font-size: 125%;
         color: saddlebrown;
-        backgound-image: url("hand-2777669_1280.png");
-        backgounr-repeat: no-repeat;
-        background-position: left top;
 }
 .day-box.PREP.reading-box
 {
@@ -55,6 +52,9 @@ h1
         border-radius: 10px;
         margin: 10px;
         padding: 10px;
+        backgound-image: url("hand-2777669_1280.png");
+        backgounr-repeat: no-repeat;
+        background-position: left top;
 }
 .grading-box
 {
