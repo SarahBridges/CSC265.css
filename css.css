@@ -25,10 +25,9 @@ body
 .nav a
 {
         border-radius: 5px;
-        background-color: darkkhaki;
+        background-color: blue;
         margin: 10px;
         font-size: 200%;
-        border: 2px saddlebrown;
 
 }
 
@@ -205,7 +204,23 @@ table td { color: white; }
         color: khaki;
         font-size: 150%;
 }
-
+.assigntment__title
+{
+        color:khaki;
+        font-size:150%;
+}
+.assignment_prompt
+{
+        color: white;
+}
+p
+{
+        color: white;
+}
+h3
+{
+        color: khaki;
+}
 .prompt 
 {
         color: white;
