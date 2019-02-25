@@ -93,6 +93,7 @@ h1
 .day
 {
         color: khaki;
+        backrgound-image: url("glasses.png");
 }
 .day-box.PREP.reading.assignment-label
 {
