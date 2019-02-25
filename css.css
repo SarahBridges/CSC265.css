@@ -205,12 +205,6 @@ input { float: left;
 .account_form img { float:left;
                     margin: 5px;
                     margin-bottom: 10px}
-table
-{
-        position: relative;
-        top: 10px;
-        left: 41.5%;
-}
 table th { color: khaki; }
 
 table td { color: white; }
@@ -240,10 +234,4 @@ h3
 .prompt 
 {
         color: white;
-}
-.rubrik_score table
-{
-        position: relative;
-        top: 0px;
-        left: 0px;
 }
