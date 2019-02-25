@@ -191,3 +191,7 @@ input { float: left;
 .account_form img { float:left;
                     margin: 5px;
                     margin-bottom: 10px}
+
+table th { color: khaki; }
+
+table td { color: white; }
