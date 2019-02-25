@@ -30,7 +30,7 @@ body
         background-image: url("aviator.jpeg");
         background-repeat: no-repeat;
         background-position: center right;
-        backgound-size: cover;
+        backgound-size: contain;
 }
 
 h1
