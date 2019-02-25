@@ -12,6 +12,10 @@ body
         background-color: khaki;
         border-radius: 10px;
 }
+.assignmentWidget.ASSIGNED assignment-title
+{
+        
+}
 .username
 {
         color: saddlebrown; 
