@@ -37,6 +37,7 @@ body
         backgound-size: contain;
         width: 10px;
         height: 10px;
+        resize: both;
 }
 
 h1
@@ -209,7 +210,6 @@ table td { color: white; }
 
 .assignment-title
 {
-        text-align: center;
         color: khaki;
         font-size: 150%;
 }
