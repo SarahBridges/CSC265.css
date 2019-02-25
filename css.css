@@ -92,9 +92,7 @@ h1
 }
 .day
 {
-        color: khaki;
-        font-size: 150%;
-        -webkit-text-stroke: .5px saddlebrown;
+        color: blue;
 }
 .day-box.PREP.reading.assignment-label
 {
