@@ -93,18 +93,18 @@ h1
 .day
 {
         color: khaki;
-        outline: 1px solid saddlebrown;
+        -webkit-text-stroke: 2px saddlebrown;
 }
 .day-box.PREP.reading.assignment-label
 {
         color: saddlebrown;
         border: 2px solid mediumblue;
-        outline: 1px solid saddlebrown;
+        -webkit-text-stroke: saddlebrown;
 }
 .day-box.PREP.readinglabel
 {
         color: saddlebrown;
-        outline: 1px solid saddlebrown;
+        -webkit-text-stroke: saddlebrown;
 }
 .day-box.PREP.prep-box
 {
@@ -163,12 +163,12 @@ h1
 .assignment-label
 {
         font-size: 200%;
-        outline: 1px solid saddlebrown;
+        -webkit-text-stroke: saddlebrown;
 }
 .reading
 {
         color: khaki;
-        outline: 1px solid saddlebrown;
+        -webkit-text-stroke: saddlebrown;
 }
 .prep-box
 {
