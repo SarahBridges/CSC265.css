@@ -61,9 +61,7 @@ h1
         border-radius: 10px;
         margin: 10px;
         padding: 10px;
-        backgound-image: url("hand-2777669_1280.png");
-        backgounr-repeat: no-repeat;
-        background-position: left top;
+
 }
 .grading-box
 {
@@ -71,9 +69,9 @@ h1
         border-radius: 10px;
         margin: 10px;
         padding: 10px;
-        backgound-image: url("hand-2777669_1280.png");
-        backgounr-repeat: no-repeat;
-        background-position: left top;
+        background-image: url("aviator.jpeg");
+        background-repeat: no-repeat;
+        background-position: center right;
 }
 .lab-box
 {
@@ -81,9 +79,9 @@ h1
         border-radius: 10px;
         margin: 10px;
         padding: 10px;
-        backgound-image: url("hand-2777669_1280.png");
-        backgounr-repeat: no-repeat;
-        background-position: left top;
+        background-image: url("aviator.jpeg");
+        background-repeat: no-repeat;
+        background-position: center right;
 }
 .prep-box
 {
@@ -91,9 +89,9 @@ h1
         border-radius: 10px;
         margin: 10px;
         padding: 10px;
-        backgound-image: url("hand-2777669_1280.png");
-        backgounr-repeat: no-repeat;
-        background-position: left top;
+        background-image: url("aviator.jpeg");
+        background-repeat: no-repeat;
+        background-position: center right;
 }
 .day-box.PREP.reading.assignment-label
 {
