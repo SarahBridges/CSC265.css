@@ -12,7 +12,16 @@ body
         background-color: khaki;
         border-radius: 10px;
 }
-
+.view_text
+{
+        color: darkkhaki;
+        boder: 2px solid khaki;
+}
+.author_comments
+{
+        color: darkkhaki;
+        border: 2px solid khaki;
+}
 .username
 {
         color: saddlebrown; 
