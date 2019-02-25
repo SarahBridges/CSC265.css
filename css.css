@@ -177,4 +177,4 @@ label { float: left;
 input { float: left;
         margin: 5px;}
 
-.account_form person_image { float:left;}
+.account_form img { float:left;}
