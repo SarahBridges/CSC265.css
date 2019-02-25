@@ -62,6 +62,9 @@ h1
         border-radius: 10px;
         margin: 10px;
         padding: 10px;
+        backgound-image: url("hand-2777669_1280.png");
+        backgounr-repeat: no-repeat;
+        background-position: left top;
 }
 .lab-box
 {
@@ -69,6 +72,9 @@ h1
         border-radius: 10px;
         margin: 10px;
         padding: 10px;
+        backgound-image: url("hand-2777669_1280.png");
+        backgounr-repeat: no-repeat;
+        background-position: left top;
 }
 .prep-box
 {
@@ -76,6 +82,9 @@ h1
         border-radius: 10px;
         margin: 10px;
         padding: 10px;
+        backgound-image: url("hand-2777669_1280.png");
+        backgounr-repeat: no-repeat;
+        background-position: left top;
 }
 .day-box.PREP.reading.assignment-label
 {
