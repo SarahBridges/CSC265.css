@@ -1,7 +1,7 @@
 body 
 {
         background-color: mediumblue;
-        font-family: Bookman;
+        font-family: Bookman, sans-serif;
         padding: 10px;
         align: center; 
 }
