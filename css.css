@@ -16,17 +16,26 @@ body
 {
         color: darkkhaki;
         border: 2px solid khaki;
+        border-radius: 10px;
+        margin: 10px;
+        padding: 5px;
 }
 .author_comments
 {
         color: darkkhaki;
         border: 2px solid khaki;
+        border-radius: 10px;
+        margin: 10px;
+        padding: 5px;
 }
 .graded-assignment
 {
         color: darkkhaki;
         border: 2px solid khaki;
-        border-radius: 10px'
+        border-radius: 10px;
+        width: 50px;
+        margin: 10px;
+        padding: 5px;
 }
 .username
 {
