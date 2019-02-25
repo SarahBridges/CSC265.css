@@ -26,7 +26,11 @@ body
         border-radius: 5px;
         background-color: blue;
         margin: 10px;
-        font-size: 200%
+        font-size: 200%;
+        background-image: url("aviator.jpeg");
+        background-repeat: no-repeat;
+        background-position: center right;
+        backgound-size: cover;
 }
 
 h1
@@ -69,10 +73,7 @@ h1
         border-radius: 10px;
         margin: 10px;
         padding: 10px;
-        background-image: url("aviator.jpeg");
-        background-repeat: no-repeat;
-        background-position: center right;
-        backgound-size: cover;
+        
 }
 .lab-box
 {
@@ -80,10 +81,7 @@ h1
         border-radius: 10px;
         margin: 10px;
         padding: 10px;
-        background-image: url("aviator.jpeg");
-        background-repeat: no-repeat;
-        background-position: center right;
-        backgound-size: cover;
+        
 }
 .prep-box
 {
@@ -91,10 +89,7 @@ h1
         border-radius: 10px;
         margin: 10px;
         padding: 10px;
-        background-image: url("aviator.jpeg");
-        background-repeat: no-repeat;
-        background-position: center right;
-        backgound-size: cover;
+        
 }
 .day-box.PREP.reading.assignment-label
 {
