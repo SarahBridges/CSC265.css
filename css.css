@@ -30,8 +30,8 @@ body
         font-size: 200%;
         background-image: url("aviator.jpeg");
         backgound-size: contain;
-        width: 10px;
-        height: 10px;
+        width: 30px;
+        height: 30px;
         resize: both;
 }
 
