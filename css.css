@@ -12,10 +12,7 @@ body
         background-color: khaki;
         border-radius: 10px;
 }
-.assignmentWidget.ASSIGNED.assignment-title
-{
-        
-}
+
 .username
 {
         color: saddlebrown; 
@@ -32,8 +29,6 @@ body
         margin: 10px;
         font-size: 200%;
         background-image: url("aviator.jpeg");
-        background-repeat: no-repeat;
-        background-position: center right;
         backgound-size: contain;
         width: 10px;
         height: 10px;
