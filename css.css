@@ -23,11 +23,11 @@ body
 
 .nav a
 {
-        border: 2px black;
         border-radius: 5px;
         background-image: url("aviator.jpeg");
         background-repeat: no-repeat;
         background-position: center center;
+        margin: 10px;
 }
 
 h1
