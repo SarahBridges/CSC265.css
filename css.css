@@ -93,18 +93,18 @@ h1
 .day
 {
         color: khaki;
-        outline: saddlebrown;
+        outline: 1px solid saddlebrown;
 }
 .day-box.PREP.reading.assignment-label
 {
         color: saddlebrown;
         border: 2px solid mediumblue;
-        outline: saddlebrown;
+        outline: 1px solid saddlebrown;
 }
 .day-box.PREP.readinglabel
 {
         color: saddlebrown;
-        outline: saddlebrown;
+        outline: 1px solid saddlebrown;
 }
 .day-box.PREP.prep-box
 {
@@ -163,12 +163,12 @@ h1
 .assignment-label
 {
         font-size: 200%;
-        outline: saddlebrown;
+        outline: 1px solid saddlebrown;
 }
 .reading
 {
         color: khaki;
-        outline: saddlebrown;
+        outline: 1px solid saddlebrown;
 }
 .prep-box
 {
@@ -208,7 +208,7 @@ table
 {
         position: relative;
         top: 10px;
-        left: 50%;
+        left: 41.5%;
 }
 table th { color: khaki; }
 
