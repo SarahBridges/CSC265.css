@@ -181,9 +181,13 @@ img
 label { float: left;
         clear: left;
         color: white;
-        margin: 5px;}
+        margin: 5px;
+        margin-bottom: 10px}
 
 input { float: left;
-        margin: 5px;}
+        margin: 5px;
+        margin-bottom: 10px}
 
-.account_form img { float:left;}
+.account_form img { float:left;
+                    margin: 5px;
+                    margin-bottom: 10px}
