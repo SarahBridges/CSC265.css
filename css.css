@@ -173,6 +173,6 @@ label { float: left;
         clear: left;
         color: white;}
 
-input { float: right; }
+input { float: left; }
 
 form.account_form { clear: both;}
