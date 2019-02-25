@@ -31,6 +31,9 @@ h1
         margin: 10px;
         background-color: darkkhaki;
         border-radius: 10px;
+        backgound-image: url("aviator.jpeg");
+        backgounr-repeat: no-repeat;
+        background-position: left top;
 
 }
 .day-box PREP.day
