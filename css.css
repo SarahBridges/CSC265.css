@@ -206,7 +206,9 @@ input { float: left;
                     margin-bottom: 10px}
 table
 {
-        align: center;
+        position: relative;
+        top: 10px;
+        left: 50%;
 }
 table th { color: khaki; }
 
