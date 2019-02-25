@@ -90,6 +90,10 @@ h1
         padding: 10px;
         
 }
+.day
+{
+        color: khaki;
+}
 .day-box.PREP.reading.assignment-label
 {
         color: saddlebrown;
