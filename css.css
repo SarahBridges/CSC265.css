@@ -31,6 +31,9 @@ body
         background-image: url("aviator.jpeg");
         background-repeat: no-repeat;
         background-size: cover;
+        width:30px;
+        height:30px;
+        resize: both;
 
 }
 
