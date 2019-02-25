@@ -97,9 +97,9 @@ h1
         color: khaki;
         background-image: url("aviator.jpeg");
         background-repeat: no-repeat;
-        background-attachment: fixed;
         background-position: right top;
-        background-size: 50px 75px;
+        background-size: 50px 75px contain;
+        
 }
 .day-box.PREP.reading.assignment-label
 {
