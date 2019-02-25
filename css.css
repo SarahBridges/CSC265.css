@@ -95,10 +95,11 @@ h1
 .day
 {
         color: khaki;
+        padding: 55px;
         background-image: url("frames.png");
         background-repeat: no-repeat;
-        background-position: right top;
-        background-size: 50px 25px;
+        background-position: left top;
+        background-size: 50px 19px;
         
 }
 .day-box.PREP.reading.assignment-label
