@@ -200,3 +200,15 @@ input { float: left;
 table th { color: khaki; }
 
 table td { color: white; }
+
+.assignment-title
+{
+        align: center;
+        color: white;
+        font-size: 150%;
+}
+
+.prompt 
+{
+        color: white;
+}
