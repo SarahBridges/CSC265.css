@@ -242,4 +242,7 @@ h3
 }
 .rubrik_score table
 {
+        position: relative;
+        top: 0px;
+        left: 0px;
 }
