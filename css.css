@@ -95,7 +95,7 @@ h1
 .day
 {
         color: khaki;
-        padding: 55px;
+        padding-left: 55px;
         background-image: url("frames.png");
         background-repeat: no-repeat;
         background-position: left top;
