@@ -31,15 +31,16 @@ h1
         margin: 10px;
         background-color: darkkhaki;
         border-radius: 10px;
-        backgound-image: url("aviator.jpeg");
-        backgounr-repeat: no-repeat;
-        background-position: left top;
+
 
 }
 .day-box PREP.day
 {
         font-size: 125%;
         color: saddlebrown;
+        backgound-image: url("hand-2777669_1280.png");
+        backgounr-repeat: no-repeat;
+        background-position: left top;
 }
 .day-box.PREP.reading-box
 {
