@@ -172,8 +172,9 @@ img
 label { float: left;
         clear: left;
         color: white;
-        margin: 10px}
+        margin: 5px;}
 
-input { float: left; }
+input { float: left;
+        margin: 5px;}
 
-form.account_form { clear: both;}
+img.person_image { float:left;
